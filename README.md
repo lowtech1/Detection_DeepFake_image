@@ -1,4 +1,4 @@
-1. Giới thiệu
+*Giới thiệu*
 
 DeepFake (ảnh/phim giả mạo) đang ngày càng tinh vi và dễ lan truyền, gây ra nhiều hệ lụy về đạo đức, an ninh, tin tức giả mạo,…
 Dự án Detection_DeepFake_image được tạo ra để xây dựng một mô hình đơn giản nhưng hiệu quả, giúp phân biệt ảnh thật và ảnh giả (do các kỹ thuật DeepFake tạo ra) dựa vào đặc trưng hình ảnh.
@@ -13,7 +13,7 @@ Là tài liệu tham khảo / khung mẫu để phát triển hơn
 
 --------------------------------------------------------------------------------------------------------------------------
 
-2. Tính năng
+**Tính năng**
 
 Sử dụng mạng CNN để phân loại ảnh thật / giả
 
@@ -29,8 +29,7 @@ Mã nguồn mở, dễ tùy biến
 
 --------------------------------------------------------------------------------------------------------------------------
 
-
-3. Kiến trúc & phương pháp
+**Kiến trúc & phương pháp**
 
 Dữ liệu: ảnh thật và ảnh DeepFake (cần chuẩn bị bên ngoài hoặc tải từ các tập dữ liệu công khai)
 
@@ -64,8 +63,7 @@ Metrics: Accuracy, Precision, Recall, F1-score
 
 --------------------------------------------------------------------------------------------------------------------------
 
-
-4. Yêu cầu & cài đặt
+**Yêu cầu & cài đặt**
 Yêu cầu
 
 Python 3.7+
