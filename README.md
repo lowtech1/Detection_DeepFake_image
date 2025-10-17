@@ -11,6 +11,8 @@ Phân tích kết quả, tìm ra đặc điểm để cải thiện độ chính
 
 Là tài liệu tham khảo / khung mẫu để phát triển hơn
 
+--------------------------------------------------------------------------------------------------------------------------
+
 2. Tính năng
 
 Sử dụng mạng CNN để phân loại ảnh thật / giả
@@ -24,6 +26,9 @@ Trực quan hóa: biểu đồ mất mát (loss), độ chính xác (accuracy) q
 Hỗ trợ thử nghiệm, tinh chỉnh tham số mô hình
 
 Mã nguồn mở, dễ tùy biến
+
+--------------------------------------------------------------------------------------------------------------------------
+
 
 3. Kiến trúc & phương pháp
 
@@ -56,6 +61,9 @@ Giữ lại mô hình tốt nhất theo validation
 Đánh giá trên tập test
 
 Metrics: Accuracy, Precision, Recall, F1-score
+
+--------------------------------------------------------------------------------------------------------------------------
+
 
 4. Yêu cầu & cài đặt
 Yêu cầu
